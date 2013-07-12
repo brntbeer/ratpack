@@ -22,6 +22,10 @@ Ratpack is micro web framework inspired by [Ruby's Sinatra](http://www.sinatrarb
 
 If you're interested in getting involved, please take a look at some of the [outstanding issues](https://github.com/ratpack/ratpack/issues) and comment away.
 
+## Requirements
+* [Groovy](http://groovy.codehaus.org)
+* [Gradle](http://gradle.org)
+
 ### Examples 
 
 * [A standalone Groovy script app](https://github.com/ratpack/example-ratpack-standalone-groovy-script)
